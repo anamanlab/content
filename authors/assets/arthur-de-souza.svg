@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Arthur Porfirio de Souza author image</title>
+  <desc id="desc">A simple initials portrait for Arthur Porfirio de Souza.</desc>
+  <rect width="512" height="512" fill="#102030"/>
+  <circle cx="256" cy="188" r="94" fill="#f4c98b"/>
+  <path d="M128 456c18-86 70-138 128-138s110 52 128 138" fill="#2f8f83"/>
+  <rect x="116" y="108" width="280" height="62" rx="31" fill="#26384f"/>
+  <text x="256" y="458" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#ffffff">APS</text>
+</svg>
